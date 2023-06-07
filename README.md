@@ -1,5 +1,5 @@
 # Psych Engine XTended
-This is a fork of [Psych Engine 0.6.3](https://github.com/ShadowMario/FNF-PsychEngine) made for its use in the creation of games/mods based on Friday Night Funkin'. It includes all of the features of Psych Engine, plus the additions featured in [Vs Selever 2.0](https://github.com/DragShot/fnf-vs-selever-mod) and new ones on their way; basically becoming the next step from the later project.
+This is a for21k of [Psych Engine 0.6.3](https://github.com/ShadowMario/FNF-PsychEngine) made for its use in the creation of games/mods based on Friday Night Funkin'. It includes all of the features of Psych Engine, plus the additions featured in [Vs Selever 2.0](https://github.com/DragShot/fnf-vs-selever-mod) and new ones on their way; basically becoming the next step from the later project.
 
 This engine is being prepared to be the foundation of upcoming games like **Funk Guys**, as well as other mods I might get involved later on; so this repository will not hold files related to specific FNF mods.
 
